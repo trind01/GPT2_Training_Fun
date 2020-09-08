@@ -1,0 +1,12 @@
+__pycache__
+models/
+gpt-2/ScrapedData/
+*.npz
+gpt-2/ScrapingScripts/key.py
+gpt-2/ScrapingScripts/bot.py
+gpt_env/
+Good_Iroh_samples.txt
+avatar_scripts.txt
+Headlines.txt
+Samples.txt
+gpt-2/src/samples/*
